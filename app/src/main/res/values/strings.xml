@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FloorCalculator</string>
+    <string name="text_view_width">Width:</string>
+    <string name="text_view_length">Length</string>
+    <string name="button_result">Show Result</string>
+    <string name="text_view_top">Flooring Needed:</string>
+    <string name="text_view_result">NA</string>
+</resources>
